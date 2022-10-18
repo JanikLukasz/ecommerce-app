@@ -1,0 +1,135 @@
+.item-s {
+    display: flex;
+    flex-direction: row;
+    color: #1D1F22;
+    justify-content: space-between;
+    margin-left: 16px;
+    margin-bottom: 40px;
+}
+
+.item-brand-s {
+    font-family: 'Raleway', sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    margin-bottom: 8px;
+}
+
+.item-name-s {
+    font-family: 'Raleway', sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    margin-bottom: 8px;
+}
+
+.item-price-s {
+    font-family: 'Raleway', sans-serif;
+    font-style: normal;
+    font-size: 16px;
+    font-weight: 500;
+    margin-bottom: 8px;
+}
+
+.attribute-s {
+    display: flex;
+}
+
+.non-swatch-attributes-s button {
+    margin-top: 24px;
+    margin-bottom: 8px;
+    min-width: 24px;
+    height: 24px;
+    border: 1px solid #1D1F22;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    margin-right: 8px;
+
+}
+
+.non-swatch-attributes-selected-s button {
+    margin-top: 24px;
+    margin-bottom: 8px;
+    min-width: 24px;
+    height: 24px;
+    border: 1px solid #1D1F22;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    margin-right: 8px;
+
+    background-color: #1D1F22;
+    color: #FFFFFF;
+
+}
+
+.swatch-attributes-s button {
+    margin-top: 24px;
+    margin-bottom: 8px;
+    width: 16px;
+    height: 16px;
+    border: none;
+    margin-right: 8px;
+    background: var(--primary-color) content-box;
+}
+
+.swatch-attributes-selected-s button {
+    margin-top: 24px;
+    margin-bottom: 8px;
+    width: 16px;
+    height: 16px;
+    border: none;
+    margin-right: 8px;
+    background: var(--primary-color) content-box;
+
+    border: 1px solid #5ECE7B;
+    border: solid 1px #5ECE7B;
+    padding: .1em;
+
+}
+
+.attribute-name-s {
+    position: absolute;
+    font-family: 'Raleway', sans-serif;
+    font-style: normal;
+    font-size: 14px;
+    color: #1D1F22;
+    font-weight: 400;
+}
+
+.container-image-s {
+    margin-left: 8px;
+    margin-right: 16px;
+}
+
+.item-image-s {
+    height: 190px;
+    width: 121px;
+}
+
+.buttons-s {
+    display: flex;
+    flex-direction: column;
+    margin-left: auto;
+    justify-content: space-between;
+    margin-bottom: 6px;
+    text-align: center;
+    color: #1D1F22;
+}
+
+.buttons-s button {
+    font-family: 'Source Sans Pro', sans-serif;
+    border: solid 1px #1D1F22;
+    width: 24px;
+    height: 24px;
+    font-size: 16px;
+    text-align: center;
+    line-height: 100%;
+    cursor: pointer;
+}
+
+.buttons-s p {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+}
+

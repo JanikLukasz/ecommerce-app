@@ -1,0 +1,41 @@
+.currencies p {
+    position: relative;
+    text-align: left;
+    line-height:50px;
+    padding-left: 20px;
+
+    top: -7px;
+    left: -15px;
+    width: 94px;
+    height: 50px;
+
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+    color: #1D1F22;
+    font-weight: 500;
+    cursor: pointer;
+    background: #FFFFFF;
+    z-index: 1;
+}
+
+.currencies-selected p {
+    position: relative;
+    text-align: left;
+    line-height:50px;
+    padding-left: 20px;
+
+    top: -7px;
+    left: -15px;
+    width: 94px;
+    height: 50px;
+
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+    color: #1D1F22;
+    font-weight: 500;
+    cursor: pointer;
+    background: #FFFFFF;
+    z-index: 1;
+
+    background: #EEEEEE;
+}

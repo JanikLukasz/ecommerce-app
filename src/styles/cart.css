@@ -1,0 +1,49 @@
+.cart {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.title {
+    font-family: 'Raleway';
+    font-weight: 700;
+    font-size: 32px;
+    margin-bottom: 55px;
+}
+
+.summary {
+    border-top: solid 1px #E5E5E5;
+    font-family: 'Raleway', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    padding-top: 25px;
+    margin-bottom: 18px;
+}
+
+.total {
+    font-weight: 700;
+    margin-left: 44px;
+}
+
+.quantity {
+    font-weight: 700;
+}
+
+.taxes {
+    font-weight: 700;
+    margin-left: 9px;
+}
+
+.order {
+    width: 279px;
+    height: 43px;
+    background: #5ECE7B;
+    border: none;
+
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    color: #FFFFFF;
+    margin-bottom: 100px;
+}
